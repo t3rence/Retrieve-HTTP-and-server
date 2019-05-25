@@ -1,0 +1,323 @@
+HTTP/1.1 200 OK
+Date: Sun, 10 Feb 2019 12:47:15 GMT
+Server: Apache/2.4.38 (FreeBSD) PHP/7.2.15 mod_perl/2.0.10 Perl/v5.28.1
+Transfer-Encoding: chunked
+Content-Type: text/html
+
+2915
+<html>
+<!-- www.play-hookey.com -->
+<head>
+<title>Welcome to Play-Hookey!</title>
+<meta name="MSSmartTagsPreventParsing" content="TRUE">
+</head>
+<body bgcolor = "#99ffff" text = "#000000">
+<center>
+<h2>Welcome to the</h2>
+<h1>Play-Hookey Website</h1>
+
+<img	src = "/images/colorline.gif"
+	alt = "------"
+	width = "95%"
+	height = "5"
+	border = "0"
+	hspace = "0"
+	vspace = "0"
+	/>
+
+<p><h4>While you're out of the classroom, there's no reason why you can't
+learn a little something and enjoy yourself while you're doing it. That's
+the basic purpose of this site.</h4></p>
+
+<img	src = "/images/colorline.gif"
+	alt = "------"
+	width = "95%"
+	height = "5"
+	border = "0"
+	hspace = "0"
+	vspace = "0"
+	/>
+</center>
+
+
+<dl>
+
+<dt><b>Note:</b></dt>
+
+<dd><p>Some of the pages on this site include frames and/or JavaScript 
+applications. These pages are written to be as universal as possible, and 
+will work with multiple types of browsers. Netscape has been discontinued 
+and is no longer supported, although existing copies are still in use and 
+will work fine. As a replacement, I recommend
+<a href="http://www.mozilla.com/">Mozilla Firefox</a>. For those 
+thrill-seeking individuals who prefer the security risks of Internet 
+Explorer, IE4 and later will also handle the interactions currently in 
+use. This site will never attempt to exploit the security holes offered by 
+IE, but we do feel you should be aware of the hazard.</p>
+
+<p>Other browsers, such as Opera, generally emulate one or the other, and 
+should not present any problems.</p>
+
+<p>&nbsp;</p></dd>
+
+
+<dt><b><a href="/digital/">The Logical Story</a>.</b></dt>
+
+<dd><p>Digital logic is at the core of all digital computers, and yet it
+is entirely based on three fundamental operations, designated AND, OR, and
+NOT. See how it's possible in these pages.</p>
+
+<p>These pages now include coverage of the major
+<a href = "/digital_electronics/">logic families</a> as well as some
+<a href = "/digital_experiments/">practical experiments</a> that you can
+perform with real components to see for yourself how they work.</p>
+
+<p><b>Note:</b> Some interactions require Javascript 1.1 or later. 
+Incompatible browsers will be limited to a static 
+presentation.<sub>&nbsp;</sub></p></dd>
+
+
+<dt><b><a href="/analog/">Operational Amplifiers and Analog
+Computers</a>.</b></dt>
+
+<dd><p>Analog computers are not completely gone from the scene, in spite
+of the tremendous advances made in the digital field. And operational
+amplifiers (op amps) are used in many more applications than analog
+computers. Here is an overview of many applications for op amps, in and
+out of analog computers.<sub>&nbsp;</sub></p>
+
+<p>These pages now include some <a href = "/analog_experiments/">practical
+experiments</a> that you can perform with real components to see for
+yourself how they work.<sub>&nbsp;</sub></p></dd>
+
+
+<dt><b><a href="/dc_theory/">Electronic Theory: Direct
+Current</a>.</b></dt>
+
+<dd><p>Now that we have begun looking at both digital and analog
+circuitry, it is only appropriate to start looking at the components that
+make up these circuits, and to explore their properties. We begin this
+process here, with the fundamental properties of electronic components and
+the basic rules by which they operate in electronic
+circuits.<sub>&nbsp;</sub></p></dd>
+
+
+<dt><b><a href="/ac_theory/">Electronic Theory: Alternating
+Current</a>.</b></dt>
+
+<dd><p>Even the most basic electrical components can behave differently
+for changing voltages than they do for steady voltages. Here we look as
+the AC properties of the basic components, and the resulting variations in
+circuit behavior.<sub>&nbsp;</sub></p></dd>
+
+
+<dt><b><a href="/oscillators/">Oscillators</a>.</b></dt>
+
+<dd><p>We've talked about alternating voltages and currents, and the AC 
+properties of various electronic components. But how do we create those AC 
+signals to apply to these components? Here is the bare beginnings of 
+circuits designed to generate such signals over a wide range of 
+frequencies.<sub>&nbsp;</sub></p></dd>
+
+
+<dt><b><a href="/optics/">Take a look at optics</a>.</b></dt>
+
+<dd><p>Light is a very interesting topic. Is it a wave? A particle? Why is
+the sky blue? How does a laser work? And what's this about &quot;light
+pipes&quot; that let light travel around corners and into impossible
+places? Some of the development work on this site is aimed at exploring
+these and other questions about light.<sub>&nbsp;</sub></p></dd>
+
+<br	clear = "all" />
+
+<dt><b><a href="/semiconductors/">What's inside these
+semiconductors</a>?</b></dt>
+
+<dd><p>I've been getting queries about the internal structure and behavior
+of semicondutor devices. In response, here's a discussion of what
+semiconductors are, how they behave, and how various semiconductor devices
+are constructed.</p>
+
+<p>Another set of pages, currently under development, will show the
+behavior of typical semiconductor devices in actual, working
+circuits.<sub>&nbsp;</sub></p></dd>
+
+<dt><b><a href="/computers/">Looking inside the computer</a>.</b></dt>
+
+<dd><p>Did you ever wonder what goes on inside that (mostly) featureless
+box that you're now using to view this page? How is it that gazillions of
+invisibly small things called "electrons" can figure out where to go and
+what to do to paint words and pictures on your computer monitor or TV
+screen? It obviously works since you are seeing the result, but
+<i>how</i>? And probably the most important question in most people's
+minds: "Can I do it, too?"</p>
+
+<p>Well, the answer is, "Yes, you can, and it's not even all that hard."
+It is my intention to help you learn for yourself what is going on behind
+the scenes and how you can use it for your own purposes. I am in the
+process of building a set of sample lesson pages on computers and the
+people who work with them in various capacities; you can see them in
+progress by going to this link.<sub>&nbsp;</sub></p></dd>
+
+
+<dt><b><a href="/htmltest/">Testing HTML markup</a>.</b></dt>
+
+<dd><p>Have you considered writing your own HTML pages, but were unsure of
+how to get started? Here's a chance to write and test HTML markup, style
+sheet specifications, and even Javascript if you like, and to see the
+results without having to shift back and forth between different
+programs.</p>
+
+<p>This interactive page uses both frames and
+Javascript.<sub>&nbsp;</sub></p></dd>
+
+
+</dl>
+
+<center>
+<img	src = "/images/colorline.gif"
+	alt = "------"
+	width = "95%"
+	height = "5"
+	border = "0"
+	hspace = "0"
+	vspace = "0"
+	/>
+</center>
+
+<p>This Website is intended for those intrepid individuals who, for
+whatever reason, find themselves looking for a less than formal approach
+to useful education in a number of technical fields. Unlike the
+University-based courses which I have found on the Internet, the "lessons"
+provided here will be available to anyone at any time, and at no cost.
+They also will involve no formal college credit.</p>
+
+<p>To avoid getting caught by changes in this site, and to be sure you
+know about changes as they occur, please be sure to set a bookmark only to
+this home page -- I can promise that it will always be here as long as
+this site exists. Other pages may be moved or renamed for logistical
+reasons, but you will always be able to get there from here.</p>
+
+<center>
+<img	src = "/images/colorline.gif"
+	alt = "------"
+	width = "95%"
+	height = "5"
+	border = "0"
+	hspace = "0"
+	vspace = "0"
+	/>
+</center>
+
+<p>To recap, the following topics are currently available:</p>
+
+<ul>
+	<li><a href = "/computers/">Computers</a>.</li>
+	<li><a href = "/digital/">Digital Logic</a>.</li>
+	<li><a href = "/dc_theory/">DC Electronic Theory</a>.</li>
+	<li><a href = "/ac_theory/">AC Electronic Theory</a>.</li>
+	<li><a href = "/oscillators/">Oscillators</a>.</li>
+	<li><a href = "/htmltest/">Test HTML Markup</a>.</li>
+	<li><a href = "/analog/">Op Amps and Analog Circuits</a>.</li>
+	<li><a href = "/optics/">Optics</a>.</li>
+</ul>
+
+<center>
+<img	src = "/images/colorline.gif"
+	alt = "------"
+	width = "95%"
+	height = "5"
+	border = "0"
+	hspace = "0"
+	vspace = "0"
+	/>
+</center>
+
+<p>All material on this site will be designed and enhanced for Netscape
+Navigator version 3.0 or higher, and compatible browsers. They may at any
+time use both frames and JavaScript to provide an interactive means of
+learning on your own. If your browser does not support frames and
+JavaScript as well as forms, you may not be able to make full use of these
+lessons. We're not trying to exclude anybody, but as long as the
+&quot;browser wars&quot; go on (probably forever), we can't be all
+things to all people. We'll do our best.</p>
+
+<p>Meanwhile, tests have shown that IE4 and higher can also handle the
+current interactions in the digital logic section.</p>
+
+<center>
+<img	src = "/images/colorline.gif"
+	alt = "------"
+	width = "95%"
+	height = "5"
+	border = "0"
+	hspace = "0"
+	vspace = "0"
+	/>
+</center>
+
+<a href="http://www.freebsd.org/">
+<img	src = "/images/powerlog.gif"
+	alt = "Powered by FreeBSD."
+	title = "Powered by FreeBSD."
+	width = "171"
+	height = "64"
+	border = "0"
+	hspace = "15"
+	vspace = "0"
+	align = "left"
+	/></a>
+
+<a href="http://www.apache.org/">
+<img	src = "/images/apache_pb.gif"
+	alt = "Powered by Apache."
+	title = "Powered by Apache."
+	width = "259"
+	height = "32"
+	border = "0"
+	hspace = "15"
+	vspace = "16"
+	align = "right"
+	/></a>
+
+<p>This site is running on an Intel Core2 quad-core processor, running
+FreeBSD 8.3 and Apache 2 with mod-perl and HTML::Mason.</p>
+
+<br clear = "all" />
+
+<center>
+<img	src = "/images/colorline.gif"
+	alt = "------"
+	width = "95%"
+	height = "5"
+	border = "0"
+	hspace = "0"
+	vspace = "0"
+	/>
+</center>
+
+<p>This site owned and operated as a hobby and for general interest by
+<a href="mailto:webmaster@play-hookey.com">Ken Bigelow</a>.</p>
+
+<p>In response to numerous requests from around the world to use my site
+as an adjunct to one or another course of study, I have developed a
+<a href = "use_policy.html">Use Policy</a> for the Play-Hookey
+Website.</p>
+
+<p>If you have any requests for coverage in any topic under the heading of
+physics, chemistry, math, computer operation/repair/programming,
+electronics, or optics, please send an E-note indicating your interest to:
+<a href="mailto:webmaster@play-hookey.com">webmaster@play-hookey.com</a>.  
+If you have an interest in some other subject, please feel free to
+indicate that as well. If I don't already have the required expertise
+available, I may still be able to locate it.</p>
+
+<p>I hope you enjoy your visit to my site.</p>
+
+</body>
+</html>
+
+
+0
+
+
